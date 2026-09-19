@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <h1>👋 Hello, I'm DAKSHINA MURTHY P</h1>
+  <h3>Aspiring System Administrator | IT Infrastructure</h3>
+</div>
 
-<!--
-**dakshina775/dakshina775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+## 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **College:** NTTF
+- **Course:** Diploma in IT Infrastructure and Computer Technology
+
+## 🎯 Career Goal
+
+My primary career focus is to become a **System Administrator (SysAdmin)**. I am currently preparing for placements and internship opportunities where I can apply my knowledge of IT infrastructure, networking, and computer technology in a professional, real-world environment.
+
+## 📫 Get in Touch
+
+If you have an internship or placement opportunity, or just want to connect, feel free to reach out via email:
+
+<a href="mailto:NEC0824025@NTTF.CO.IN">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br />
+<br />
+
+<div align="center">
+  <i>Preparing for a future in IT Systems & Infrastructure Administration</i>
+</div>
